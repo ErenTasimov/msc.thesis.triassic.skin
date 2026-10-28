@@ -1,0 +1,37 @@
+#NEXUS[written Wed Oct 07 14:00:42 CEST 2026 by Mesquite  version 3.81 (build 955) at Protathlitis/100.87.146.240]
+BEGIN TREES;
+[! Trees from source: 'Current Tree (Tree(s) used from Trees. Last tree used: Tree, mainly following Jenkins et al. (2025)  [tree: (1,(2,(3,(4,(5,(6,(7,((8,(9,(10,(20,(11,12))))),(21,(13,((22,(14,(15,16))),(17,(18,19)))))))))))))[% ] [% ] [%  setBetweenBits = selected ];] )']
+	TRANSLATE
+		1	Temnospondyli,
+		2	Nectridea,
+		3	Seymouriamorpha,
+		4	Recumbirostra,
+		5	Captorhinidae,
+		6	Diadectomorpha,
+		7	Protorothyrididae,
+		8	Caseasauria,
+		9	Varanopidae,
+		10	Ophiacodontidae,
+		11	Sphenacodontids,
+		12	Therapsida,
+		13	Bolosaurids,
+		14	Pareiasauromorpha,
+		15	Procolophonoidea,
+		16	Nyctiphruretidae,
+		17	Mesosauridae,
+		18	Millerettidae,
+		19	Neodiapsida,
+		20	Edaphosauridae,
+		21	Araeoscelida,
+		22	Acleistorhinidae,
+		23	taxon_23,
+		24	taxon_24,
+		25	taxon_25,
+		26	taxon_26,
+		27	taxon_27,
+		28	taxon_28,
+		29	taxon_29,
+		30	taxon_30;
+	TREE 'Tree, mainly following Jenkins et al. (2025)' = (1,(2,(3,(4,(5,(6,(7,((8,(9,(10,(20,(11,12))))),(21,(13,((22,(14,(15,16))),(17,(18,19)))))))))))))[% ] [% ] [%  setBetweenBits = selected ];
+END;
+
